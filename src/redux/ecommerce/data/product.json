@@ -1,0 +1,418 @@
+[{
+        "id": 0,
+        "title": "Smart Watches 3",
+        "subTitle": "SWR50",
+        "person": "Sony",
+        "largeText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet urna eu nunc faucibus scelerisque quis sed est.",
+        "checkoutText": "Ships by no later than Monday, May 4",
+        "freeShipping": true,
+        "imgList": "watch-1.png",
+        "images": [{
+                "img": "watch-1.png"
+            },
+            {
+                "img": "watch-2.png"
+            },
+            {
+                "img": "watch-3.png"
+            },
+            {
+                "img": "watch-4.png"
+            }
+        ],
+        "price": "59.00",
+        "discount": "",
+        "featured": true,
+        "onSale": false,
+        "new": false,
+        "sponsored": false,
+        "addToCartCheck": true,
+        "wishCheck": true,
+        "detailBtn": true,
+        "basketBtn": true,
+        "rate": 4.5,
+        "ratings": 211,
+        "qty": 1
+    },
+    {
+        "id": 1,
+        "title": "4K Action Cam",
+        "subTitle": "Wi-Fi & GPS",
+        "person": "Sony",
+        "largeText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet urna eu nunc faucibus scelerisque quis sed est.",
+        "checkoutText": "Ships by no later than Monday, May 4",
+        "freeShipping": true,
+        "imgList": "action-cam-1.png",
+        "images": [{
+                "img": "action-cam-1.png"
+            },
+            {
+                "img": "action-cam-2.png"
+            },
+            {
+                "img": "action-cam-3.png"
+            },
+            {
+                "img": "action-cam-4.png"
+            }
+        ],
+        "price": "59.00",
+        "discount": "49.00",
+        "featured": false,
+        "onSale": true,
+        "new": false,
+        "sponsored": false,
+        "addToCartCheck": false,
+        "wishCheck": true,
+        "detailBtn": true,
+        "basketBtn": true,
+        "rate": 4.5,
+        "ratings": 211,
+        "qty": 1
+    },
+    {
+        "id": 2,
+        "title": "Instant Digital Camera",
+        "subTitle": "Snap White",
+        "person": "Polaroid",
+        "largeText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet urna eu nunc faucibus scelerisque quis sed est.",
+        "checkoutText": "Ships by no later than Monday, May 4",
+        "freeShipping": true,
+        "imgList": "white-cam-1.png",
+        "images": [{
+                "img": "white-cam-1.png"
+            },
+            {
+                "img": "white-cam-2.png"
+            },
+            {
+                "img": "white-cam-3.png"
+            },
+            {
+                "img": "white-cam-4.png"
+            }
+        ],
+        "price": "59.00",
+        "discount": "39.00",
+        "featured": false,
+        "onSale": false,
+        "new": true,
+        "sponsored": false,
+        "addToCartCheck": false,
+        "wishCheck": false,
+        "detailBtn": true,
+        "basketBtn": true,
+        "rate": 4.5,
+        "ratings": 211,
+        "qty": 1
+    },
+    {
+        "id": 3,
+        "title": "Wireless Multiroom Speaker",
+        "subTitle": "Samsung’s ring radiator technology",
+        "person": "Samsung",
+        "largeText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet urna eu nunc faucibus scelerisque quis sed est.",
+        "checkoutText": "Ships by no later than Monday, May 4",
+        "freeShipping": true,
+        "imgList": "speaker-1.png",
+        "images": [{
+                "img": "speaker-1.png"
+            },
+            {
+                "img": "speaker-2.png"
+            },
+            {
+                "img": "speaker-3.png"
+            }
+        ],
+        "price": "59.00",
+        "discount": "29.00",
+        "featured": false,
+        "onSale": false,
+        "new": false,
+        "sponsored": true,
+        "addToCartCheck": false,
+        "wishCheck": false,
+        "detailBtn": true,
+        "basketBtn": true,
+        "rate": 4.5,
+        "ratings": 211,
+        "qty": 1
+    },
+    {
+        "id": 4,
+        "title": "JBL On-ear Wireless NXTG",
+        "subTitle": "Connectivity",
+        "person": "JBL",
+        "largeText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet urna eu nunc faucibus scelerisque quis sed est.",
+        "checkoutText": "Ships by no later than Monday, May 4",
+        "freeShipping": true,
+        "imgList": "wireless-bluetooth-1.png",
+        "images": [{
+                "img": "wireless-bluetooth-1.png"
+            },
+            {
+                "img": "wireless-bluetooth-2.png"
+            },
+            {
+                "img": "wireless-bluetooth-3.png"
+            },
+            {
+                "img": "wireless-bluetooth-4.png"
+            }
+        ],
+        "price": "59.00",
+        "discount": "19.00",
+        "featured": true,
+        "onSale": false,
+        "new": false,
+        "sponsored": false,
+        "addToCartCheck": false,
+        "wishCheck": false,
+        "detailBtn": true,
+        "basketBtn": true,
+        "rate": 4.5,
+        "ratings": 211,
+        "qty": 1
+    },
+    {
+        "id": 5,
+        "title": "Portable Speaker",
+        "subTitle": "Xtreme ultimate splashproof",
+        "person": "JBL",
+        "largeText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet urna eu nunc faucibus scelerisque quis sed est.",
+        "checkoutText": "Ships by no later than Monday, May 4",
+        "freeShipping": true,
+        "imgList": "portable-speaker-1.png",
+        "images": [{
+                "img": "portable-speaker-1.png"
+            },
+            {
+                "img": "portable-speaker-2.png"
+            },
+            {
+                "img": "portable-speaker-3.png"
+            }
+        ],
+        "price": "59.00",
+        "discount": "9.00",
+        "featured": true,
+        "onSale": false,
+        "new": false,
+        "sponsored": false,
+        "addToCartCheck": false,
+        "wishCheck": false,
+        "detailBtn": true,
+        "basketBtn": true,
+        "rate": 4.5,
+        "ratings": 211,
+        "qty": 1
+    },
+    {
+        "id": 6,
+        "title": "Router Dual-band",
+        "subTitle": "2.4GHz 167Mbps Wi-Fi 802.11",
+        "person": "Xiaomi",
+        "largeText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet urna eu nunc faucibus scelerisque quis sed est.",
+        "checkoutText": "Ships by no later than Monday, May 4",
+        "freeShipping": true,
+        "imgList": "wifi-1.png",
+        "images": [{
+                "img": "wifi-1.png"
+            },
+            {
+                "img": "wifi-2.png"
+            },
+            {
+                "img": "wifi-3.png"
+            }
+        ],
+        "price": "59.00",
+        "discount": "37.00",
+        "featured": true,
+        "onSale": false,
+        "new": false,
+        "sponsored": false,
+        "addToCartCheck": false,
+        "wishCheck": false,
+        "detailBtn": true,
+        "basketBtn": true,
+        "rate": 4.5,
+        "ratings": 211,
+        "qty": 1
+    },
+    {
+        "id": 7,
+        "title": "Gear Virtual Reality",
+        "subTitle": "3D with Bluetooth Glasses",
+        "person": "Oculus",
+        "largeText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet urna eu nunc faucibus scelerisque quis sed est.",
+        "checkoutText": "Ships by no later than Monday, May 4",
+        "freeShipping": true,
+        "imgList": "3d-glasses-1.png",
+        "images": [{
+                "img": "3d-glasses-1.png"
+            },
+            {
+                "img": "3d-glasses-2.png"
+            },
+            {
+                "img": "3d-glasses-3.png"
+            },
+            {
+                "img": "3d-glasses-4.png"
+            }
+        ],
+        "price": "599.00",
+        "discount": "",
+        "featured": true,
+        "onSale": false,
+        "new": false,
+        "sponsored": false,
+        "addToCartCheck": false,
+        "wishCheck": false,
+        "detailBtn": true,
+        "basketBtn": true,
+        "rate": 4.5,
+        "ratings": 211,
+        "qty": 1
+    },
+    {
+        "id": 8,
+        "title": "Xbox ONE Controller Gold",
+        "subTitle": "Gold Version",
+        "person": "Microsoft",
+        "largeText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet urna eu nunc faucibus scelerisque quis sed est.",
+        "checkoutText": "Ships by no later than Monday, May 4",
+        "freeShipping": true,
+        "imgList": "xbox-1.png",
+        "images": [{
+                "img": "xbox-1.png"
+            },
+            {
+                "img": "xbox-2.png"
+            },
+            {
+                "img": "xbox-3.png"
+            },
+            {
+                "img": "xbox-4.png"
+            }
+        ],
+        "colors": [9, 10, 11, 12],
+        "color": "Gold",
+        "price": "399.00",
+        "discount": "",
+        "featured": true,
+        "onSale": false,
+        "new": false,
+        "sponsored": false,
+        "addToCartCheck": false,
+        "wishCheck": false,
+        "detailBtn": true,
+        "basketBtn": true,
+        "rate": 4.5,
+        "ratings": 211,
+        "qty": 1
+    },
+    {
+        "id": 9,
+        "title": "Xbox ONE Controller Red",
+        "subTitle": "Red Version",
+        "person": "Microsoft",
+        "largeText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet urna eu nunc faucibus scelerisque quis sed est.",
+        "checkoutText": "Ships by no later than Monday, May 4",
+        "freeShipping": true,
+        "imgList": "xbox-red.png",
+        "colors": [8, 10, 11, 12],
+        "color": "Red",
+        "price": "399.00",
+        "discount": "",
+        "featured": true,
+        "onSale": false,
+        "new": false,
+        "sponsored": false,
+        "addToCartCheck": false,
+        "wishCheck": false,
+        "detailBtn": true,
+        "basketBtn": true,
+        "rate": 4.5,
+        "ratings": 211,
+        "qty": 1
+    },
+    {
+        "id": 10,
+        "title": "Xbox ONE Controller Black",
+        "subTitle": "Black Version",
+        "person": "Microsoft",
+        "largeText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet urna eu nunc faucibus scelerisque quis sed est.",
+        "checkoutText": "Ships by no later than Monday, May 4",
+        "freeShipping": true,
+        "imgList": "xbox-black.png",
+        "colors": [8, 9, 11, 12],
+        "color": "Black",
+        "price": "399.00",
+        "discount": "",
+        "featured": true,
+        "onSale": false,
+        "new": false,
+        "sponsored": false,
+        "addToCartCheck": false,
+        "wishCheck": false,
+        "detailBtn": true,
+        "basketBtn": true,
+        "rate": 4.5,
+        "ratings": 211,
+        "qty": 1
+    },
+    {
+        "id": 11,
+        "title": "Xbox ONE Controller White",
+        "subTitle": "White Version",
+        "person": "Microsoft",
+        "largeText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet urna eu nunc faucibus scelerisque quis sed est.",
+        "checkoutText": "Ships by no later than Monday, May 4",
+        "freeShipping": true,
+        "imgList": "xbox-white.png",
+        "colors": [8, 9, 10, 12],
+        "color": "White",
+        "price": "399.00",
+        "discount": "",
+        "featured": true,
+        "onSale": false,
+        "new": false,
+        "sponsored": false,
+        "addToCartCheck": false,
+        "wishCheck": false,
+        "detailBtn": true,
+        "basketBtn": true,
+        "rate": 4.5,
+        "ratings": 211,
+        "qty": 1
+    },
+    {
+        "id": 12,
+        "title": "Xbox ONE Controller Blue",
+        "subTitle": "Blue Version",
+        "person": "Microsoft",
+        "largeText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet urna eu nunc faucibus scelerisque quis sed est.",
+        "checkoutText": "Ships by no later than Monday, May 4",
+        "freeShipping": true,
+        "imgList": "xbox-blue.png",
+        "colors": [8, 9, 10, 11],
+        "color": "Blue",
+        "price": "399.00",
+        "discount": "",
+        "featured": true,
+        "onSale": false,
+        "new": false,
+        "sponsored": false,
+        "addToCartCheck": false,
+        "wishCheck": false,
+        "detailBtn": true,
+        "basketBtn": true,
+        "rate": 4.5,
+        "ratings": 211,
+        "qty": 1
+    }
+]

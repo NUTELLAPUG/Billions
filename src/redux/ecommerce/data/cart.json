@@ -1,0 +1,36 @@
+[{
+    "id": 0,
+    "title": "Smart Watches 3",
+    "subTitle": "SWR50",
+    "person": "Sony",
+    "largeText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet urna eu nunc faucibus scelerisque quis sed est.",
+    "checkoutText": "Ships by no later than Monday, May 4",
+    "freeShipping": true,
+    "imgList": "watch-1.png",
+    "images": [{
+            "img": "watch-1.png"
+        },
+        {
+            "img": "watch-2.png"
+        },
+        {
+            "img": "watch-3.png"
+        },
+        {
+            "img": "watch-4.png"
+        }
+    ],
+    "price": "59.00",
+    "discount": "",
+    "featured": true,
+    "onSale": false,
+    "new": false,
+    "sponsored": false,
+    "addToCartCheck": true,
+    "wishCheck": true,
+    "detailBtn": true,
+    "basketBtn": true,
+    "rate": 4.5,
+    "ratings": 211,
+    "qty": 1
+}]

@@ -1,0 +1,30 @@
+{
+    "tasks": [
+        {
+            "type": "npm",
+            "runOptions": {},
+            "script": "build",
+            "problemMatcher": [
+                "$msCompile"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": false
+            },
+            "label": "build"
+        },
+        {
+            "type": "npm",
+            "runOptions": {},
+            "script": "build",
+            "problemMatcher": [
+                "$lessc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": false
+            },
+            "label": "build"
+        }
+    ]
+}
